@@ -1,6 +1,18 @@
 {
   "@@locale": "ar",
-  "appTitle": "منصة الأطباء",
+  "appTitle": "عيادتك",
+  "@appTitle": {
+    "description": "The title of the application"
+  },
   "login": "تسجيل الدخول",
-  "register": "إنشاء حساب"
+  "register": "إنشاء حساب",
+  "email": "البريد الإلكتروني",
+  "password": "كلمة المرور",
+  "phone": "رقم الهاتف",
+  "fullName": "الاسم بالكامل",
+  "next": "التالي",
+  "confirm": "تأكيد",
+  "error": "خطأ",
+  "success": "نجاح",
+  "loading": "جاري التحميل..."
 }

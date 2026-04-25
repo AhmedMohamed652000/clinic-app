@@ -1,0 +1,13 @@
+node_modules/
+dist/
+build/
+.env*
+*.log
+.DS_Store
+Thumbs.db
+apps/mobile/.dart_tool/
+apps/mobile/.packages
+apps/mobile/.pub/
+apps/mobile/build/
+.idea/
+.vscode/
