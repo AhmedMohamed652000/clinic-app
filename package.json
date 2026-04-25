@@ -1,0 +1,11 @@
+{
+  "name": "clinic-platform",
+  "private": true,
+  "workspaces": [
+    "apps/backend",
+    "apps/admin"
+  ],
+  "dependencies": {
+    "tailwindcss-animate": "^1.0.7"
+  }
+}

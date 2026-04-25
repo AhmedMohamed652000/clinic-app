@@ -1,0 +1,8 @@
+{
+  "appTitle": "Clinic Platform",
+  "@appTitle": {
+    "description": "The title of the application"
+  },
+  "login": "Login",
+  "register": "Register"
+}
